@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'Interface Lt';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceLt.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface LtIt';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceLtIt.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface Regular';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceRg.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface Th';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceTh.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface ThBd';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceThBd.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface ThBdIt';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceThBdIt.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface ThIt';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceThIt.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface Xb';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceXb.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Interface XBIt';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/InterFaceXBIt.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Intr FcBd';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/IntrFcBd.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Intr FcBO';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/IntrFcBO.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Intr FcOb';
+  src: local('Interface'), url('./assets/fonts/Interface 1.0 2004/IntrFcOb.ttf') format('truetype');
+}
+
+body {
+  /* background: #fff8ee; */
+  background-color: #f5f5f5;
+  color: rgb(20, 1, 8);
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Interface Lt';
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
